@@ -1,0 +1,11 @@
+public class FirstLastDigitSum {
+    public static void sumFirstAndLastDigit(int number){
+        if (number<0){
+            return -1;
+        }
+        else{
+            String s=String(number);
+        }
+    }
+    
+}

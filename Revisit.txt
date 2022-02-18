@@ -1,0 +1,26 @@
+Packages:
+collection of similar classes and interfaces into a single folder based on their functionality named 
+These Packages can be grouped and stored into JAR(Java Archive)
+allows classes to download as a group.
+A package provides a unique namespace for the classes it contains. 
+A package can contain the following:
+  Classes
+ Interfaces
+  Enumerated types
+ Annotations (metadata facility for elements introduced in Java 5)
+
+Two classes in two different packages can have the same name, which is not possible
+without using the package mechanism.
+Packages provide a mechanism to hide its classes from being used by programs or
+packages belonging to other classes.
+
+Packages are of two types:
+Pre-defined
+User-defined
+
+
+creating package:
+
+package abc;
+on the top of the programs
+
